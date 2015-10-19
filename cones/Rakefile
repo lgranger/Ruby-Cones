@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+# -*- ruby -*-
+
+require 'rake/clean'
+require 'rake/testtask'
+
+task :default => :test
+
+task :test do
+  ruby 'road_to_victory.rb'
+end
