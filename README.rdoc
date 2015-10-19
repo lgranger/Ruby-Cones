@@ -1,6 +1,7 @@
 = New Ruby Cones
 
-The Ruby Cones are challenges on the road to Ruby Victory that teach us about Ruby language,
+The Ruby Cones are small lessons in Ruby and TDD, structured as traffic cones that mark
+challenges on the road to Ruby Victory. Cones teach us about Ruby language,
 syntax, structure, and some common functions and libraries.
 We also teach you TDD basing the cones on RGF.
 Testing is not just something we pay lip service to, but something we
